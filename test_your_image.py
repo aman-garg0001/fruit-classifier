@@ -20,4 +20,5 @@ arr = list(arr.keys())
 
 file = open("output.txt", 'w')
 file.write(arr[result_classes[0]])
+
 file.close()
